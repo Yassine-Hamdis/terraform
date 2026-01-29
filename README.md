@@ -65,3 +65,4 @@ Typical Terraform commands used in this project:
 terraform init
 terraform plan
 terraform apply
+terraform destroy
